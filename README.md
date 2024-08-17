@@ -4,7 +4,7 @@ Chatbot
 It's Chatbot made using langchain
 
 Streamlit Dashboard:
-![Excel Dashboard](notebooks/Streamlit\ App.jpg)
+![Excel Dashboard](notebooks/Streamlit-App.jpg)
 
 Project Organization
 ------------
